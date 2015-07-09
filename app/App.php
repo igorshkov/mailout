@@ -1,6 +1,5 @@
 <?php
 
-
 class App extends Service
 {   
     protected $definitions = [];
@@ -23,7 +22,7 @@ class App extends Service
     
         foreach ($users as $user) {
             $message = $this->components['message']->build($user);
-            $this->components['mandrill']->messages->send($message);
+//            $this->components['mandrill']->messages->send($message);
         }
     }
 }
