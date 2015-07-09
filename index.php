@@ -1,18 +1,43 @@
 <?php
 
+
+/**
+ ** UTF 8 encoding
+ **/
+
 mb_internal_encoding("UTF-8");
 mb_http_output( "UTF-8" );
 ob_start("mb_output_handler");
 
+
+/**
+ ** Vendor autoload
+ **/
+
 require_once ('vendor/autoload.php');
 
-function __autoload($class)
+
+/**
+ ** App autoload
+ **/
+
+function autoload($class)
 {
-    echo $class.'</br>';
     require('app/'.$class.'.php');
 }
+spl_autoload_register('autoload');
+
+
+/**
+ ** Add Config file
+ **/
 
 $config = require(__DIR__ . '/app/config.php');
+
+/**
+ ** Create App
+ **/
+
 $app = new App($config);
 $app->run();
 
