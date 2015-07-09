@@ -22,49 +22,7 @@ function sendEmail($name, $email, Mandrill $mail)
 
 $template = file_get_contents('templates/t1.html');
 $image = base64_encode(file_get_contents('assets/rr.png'));
-    
-function getMessage()
-{
-    return array(
-        'html' => $template,
-        'text' => '',
-        'subject' => 'Приглашение в проект "Дороги России"',
-        'from_email' => 'photo.volkov.a@gmail.com',
-        'from_name' => 'Александр Волков',
-        'to' => array(		
-            array(
-                'email' => $email,
-                'name' => $name,
-                'type' => 'to'
-            )
-        ),
-      'global_merge_vars' => array(
-          array(
-              'name' => 'NAME',
-              'content' => $name
-          )
-      ),
-      'merge_vars' => array(
-          array(
-              'rcpt' => $email,
-              'vars' => array(
-                  array(
-                      'name' => 'NAME',
-                      'content' => $name
-                  )
-              )
-          )
-      ),
-        'images' => array(
-            array(
-                'type' => 'image/png',
-                'name' => 'assets/rr.png',
-                'content' => $image
-            )
-        ),
-        'subaccount' => 'rusroads'
-    );
-}
+
 
 
 
@@ -129,19 +87,19 @@ function sendLog($name, $email)
 //sendEmail('Александр', 'photo.volkov.a@gmail.com');
 
 
-class MessageBuilder
-{
-    private static $content;
-    
-    public static function build($from, $to)
-    {
-        if (null === self::$content) {
-            self::$content = file_get_contents('file.html');
-        }
-        
-        return compact('from', 'to', 'content');
-    }
-}
+//class MessageBuilder
+//{
+//    private static $content;
+//
+//    public static function build($from, $to)
+//    {
+//        if (null === self::$content) {
+//            self::$content = file_get_contents('file.html');
+//        }
+//
+//        return compact('from', 'to', 'content');
+//    }
+//}
 
 class CoolMessageBuilder extends Service
 {
