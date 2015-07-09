@@ -20,10 +20,9 @@ private $content;
         if(strpos($user['email'],'@') !== false) {
             $name = $this->getName($user);
             $email= $user['email'];
-            //sendLog($name, $email);
-            print_r($name.'</br>');
-            print_r($email.'</br></br>');
+            return $this->getMessage($name, $email);
         }
+        return false;
     }
 
     private function getName($user)
@@ -38,11 +37,11 @@ private $content;
     private function getMessage($name, $email)
     {
         return array(
-            'html' => $this->$content,
+            'html' => $this->content,
             'text' => '',
             'subject' => 'Приглашение в проект "Дороги России"',
-            'from_email' => $this->$from_email,
-            'from_name' => $this->$from_name,
+            'from_email' => $this->from_email,
+            'from_name' => $this->from_name,
             'to' => array(
                 array(
                     'email' => $email,
@@ -70,8 +69,8 @@ private $content;
             'images' => array(
                 array(
                     'type' => 'image/png',
-                    'name' => $this->$attachment,
-                    'content' => base64_encode(file_get_contents($this->$attachment))
+                    'name' => $this->attachment,
+                    'content' => base64_encode(file_get_contents($this->attachment))
                 )
             ),
             'subaccount' => 'rusroads'

@@ -22,7 +22,9 @@ class App extends Service
     
         foreach ($users as $user) {
             $message = $this->components['message']->build($user);
+            if($message) {
 //            $this->components['mandrill']->messages->send($message);
+            }
         }
     }
 }

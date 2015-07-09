@@ -16,7 +16,7 @@ protected $source;
         }
         fclose($handle);
 
-        unset($users[0]);
+        array_shift($users);
         return $users;       
     }
     
