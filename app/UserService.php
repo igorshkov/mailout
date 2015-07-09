@@ -3,7 +3,7 @@
 class UserService extends Service
 {
 
-protected $source;
+    protected $source;
     
     // returns all users
     public function getAll()
@@ -35,7 +35,7 @@ protected $source;
     
     private function getRecepients($rule)
     {
-        $remove;
+//        $remove;
         switch ($rule) {
             case 'not_approved':
                 ['approved', 0];

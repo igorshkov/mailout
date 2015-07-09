@@ -2,12 +2,12 @@
 
 class MessageService extends Service
 {
-protected $from_email;
-protected $from_name;
-protected $template;
-protected $attachment;
+    protected $from_email;
+    protected $from_name;
+    protected $template;
+    protected $attachment;
 
-private $content;
+    private $content;
 
     protected function init()
     {
@@ -36,7 +36,8 @@ private $content;
 
     private function getMessage($name, $email)
     {
-        return array(
+        $this->log($name, $email);
+        $message = array(
             'html' => $this->content,
             'text' => '',
             'subject' => 'Приглашение в проект "Дороги России"',
@@ -75,6 +76,12 @@ private $content;
             ),
             'subaccount' => 'rusroads'
         );
+        return $message;
+    }
+
+    public function log($name, $email)
+    {
+        print_r('Sent to :<b>'.$name.'.</b> Email: <b>'.$email.'</b></br>');
     }
 
 }

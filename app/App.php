@@ -8,6 +8,8 @@ class App extends Service
     
     public function init()
     {
+        Wii::$app = $this;
+
         foreach ($this->definitions as $alias => $config) {
             $class = $config['class'];
             unset($config['class']);
@@ -19,12 +21,19 @@ class App extends Service
     public function run()
     {
         $users = $this->components['user']->getAll();
-    
+        $mandrill = new Mandrill('NjlsGKoNFErYlx-toZmAUw');
         foreach ($users as $user) {
             $message = $this->components['message']->build($user);
             if($message) {
-//            $this->components['mandrill']->messages->send($message);
+                $result = $mandrill->messages->send($message);
+                print_r('<b>DONE!</b>');
+                print_r('<\br>'.$result);
             }
         }
     }
+}
+
+class Wii
+{
+    public static $app;
 }
