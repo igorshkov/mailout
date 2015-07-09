@@ -2,10 +2,10 @@
 
 class MessageService extends Service
 {
-private $from_email;
-private $from_name;
-private $template;
-private $attachment;
+protected $from_email;
+protected $from_name;
+protected $template;
+protected $attachment;
 
 private $content;
 
@@ -18,7 +18,7 @@ private $content;
     public function build($user)
     {
         if(strpos($user['email'],'@') !== false) {
-            $name = getName($user);
+            $name = $this->getName($user);
             $email= $user['email'];
             //sendLog($name, $email);
             print_r($name.'</br>');

@@ -3,15 +3,15 @@
 class UserService extends Service
 {
 
-protected $resource;
+protected $source;
     
     // returns all users
     public function getAll()
     {
-        $handle = fopen($this->$resource, "r");
+        $handle = fopen($this->source, "r");
     
         $users = [];
-        while (($user = getNextUser($handle)) !== false) {
+        while (($user = $this->getNextUser($handle)) !== false) {
             $users[] = $user;
         }
         fclose($handle);
@@ -20,7 +20,7 @@ protected $resource;
         return $users;       
     }
     
-    private function getNextUser(resource $handle)
+    private function getNextUser($handle)
     {
         $line = fgets($handle);
 
