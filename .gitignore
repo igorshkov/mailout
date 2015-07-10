@@ -1,3 +1,4 @@
 vendor
 app/Log.php
 app/config.php
+users/users.csv
