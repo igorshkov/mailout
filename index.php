@@ -32,7 +32,7 @@ spl_autoload_register('autoload');
  ** Add Config file
  **/
 
-$config = require(__DIR__ . '/app/config.php');
+$config = require(__DIR__ . '/config.php');
 
 /**
  ** Create App

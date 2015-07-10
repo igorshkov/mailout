@@ -21,12 +21,12 @@ class App extends Service
     public function run()
     {
         $users = $this->components['user']->getAll();
-        $mandrill = new Mandrill('api key');
+        $mandrill = new Mandrill('NjlsGKoNFErYlx-toZmAUw');
         foreach ($users as $user) {
             $message = $this->components['message']->build($user);
             if($message) {
-//                $result = $mandrill->messages->send($message);
-                print_r('<b>DONE!</b></br>');
+                $result = $mandrill->messages->send($message);
+                print_r('<b>DONE: </b>'.$result.'</br>');
             }
         }
     }
