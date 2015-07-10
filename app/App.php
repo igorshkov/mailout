@@ -21,18 +21,12 @@ class App extends Service
     public function run()
     {
         $users = $this->components['user']->getAll();
-        $mandrill = new Mandrill('NjlsGKoNFErYlx-toZmAUw');
+        $mandrill = new Mandrill('NxXI6hFvhNO4-IXcneJ9VA');
         foreach ($users as $user) {
             $message = $this->components['message']->build($user);
             if($message) {
-                $result = $mandrill->messages->send($message);
-                print_r('<b>DONE: </b>'.$result.'</br>');
+//                $result = $mandrill->messages->send($message);
             }
         }
     }
-}
-
-class Wii
-{
-    public static $app;
 }

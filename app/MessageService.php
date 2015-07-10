@@ -73,8 +73,7 @@ class MessageService extends Service
                     'name' => $this->attachment,
                     'content' => base64_encode(file_get_contents($this->attachment))
                 )
-            ),
-            'subaccount' => 'rusroads'
+            )
         );
         return $message;
     }
