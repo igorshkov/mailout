@@ -1,2 +1,2 @@
-firstname,lastname,nickname,email,link,approved
-Иван,,ivan,ivan88gorshkov@gmail.com,http://www.photosight.ru/users/427356/about/,0
+firstname,lastname,nickname,email,link,approved,email2
+,Doe,John,,,0,JohnDoe2@mail.com

@@ -23,10 +23,21 @@ class App extends Service
         $users = $this->components['user']->getAll();
         $mandrill = new Mandrill('NxXI6hFvhNO4-IXcneJ9VA');
         foreach ($users as $user) {
-            $message = $this->components['message']->build($user);
-            if($message) {
-//                $result = $mandrill->messages->send($message);
+            $messages = $this->components['message']->build($user);
+            foreach($messages as $message) {
+                if($message) {
+                    $result = $message;//$mandrill->messages->send($message);
+                    print_r($result['to']);
+                    print_r('</br>');
+                }
             }
+
         }
     }
+}
+
+class Wii {
+
+    public static $app;
+
 }

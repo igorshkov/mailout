@@ -6,6 +6,8 @@ class MessageService extends Service
     protected $from_name;
     protected $template;
     protected $attachment;
+    protected $to_name_rules;
+    protected $to_email_rules;
 
     private $content;
 
@@ -17,26 +19,59 @@ class MessageService extends Service
 
     public function build($user)
     {
+        $messages = [];
         if(strpos($user['email'],'@') !== false) {
             $name = $this->getName($user);
-            $email= $user['email'];
-            return $this->getMessage($name, $email);
+            $emails= $this->getEmail($user);
+            foreach($emails as $email) {
+                if($name && $email) {
+                    $messages[] = $this->getMessage($name, $email);
+                }
+            }
+            return $messages;
         }
         return false;
     }
 
     private function getName($user)
     {
-        if($user['firstname']!=='') {
-            return $user['firstname'];
-        } else {
-            return $user['nickname'];
+        $name='';
+        foreach($this->to_name_rules as $rule) {
+            foreach($rule as $csv_name) {
+                if($user[$csv_name]) {
+                    $name .= $user[$csv_name].' ';
+                } else {
+                    break;
+                }
+            }
+            if($name) {
+                return trim($name);
+            }
         }
+        return false;
+    }
+
+    private function getEmail($user)
+    {
+        $emails=[];
+        foreach($this->to_email_rules as $rule) {
+            foreach($rule as $csv_email) {
+                if($user[$csv_email]) {
+                    $emails[] = $user[$csv_email];
+                } else {
+                    $emails = [];
+                    break;
+                }
+            }
+            if($emails) {
+                return $emails;
+            }
+        }
+        return false;
     }
 
     private function getMessage($name, $email)
     {
-        $this->log($name, $email);
         $message = array(
             'html' => $this->content,
             'text' => '',

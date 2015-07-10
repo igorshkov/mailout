@@ -30,7 +30,7 @@ class UserService extends Service
 
         $values = array_map('trim', explode(',', $line));
 
-        return array_combine(['firstname', 'lastname', 'nickname', 'email', 'link', 'approved'], $values);
+        return array_combine(['firstname', 'lastname', 'nickname', 'email', 'link', 'approved', 'email2'], $values);
     }
     
     private function getRecepients($rule)
