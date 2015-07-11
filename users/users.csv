@@ -1,2 +1,2 @@
 firstname,lastname,nickname,email,link,approved,email2
-,Doe,John,,,0,JohnDoe2@mail.com
+John,Doe,foo,JohnDoe@mail.com,facebook.com/user.php?user_id=8888,0,JohnDoe2@mail.com
