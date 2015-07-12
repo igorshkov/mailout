@@ -1,20 +1,19 @@
 <?php
 
-class Mailout extends \yii\base\Widget {
+use yii\base\Widget;
+use yii\helpers\Html;
 
-    private $from_email;
-    private $from_name;
-    private $template;
-    private $to_name_rules;
-    private $to_email_rules;
+class Mailout extends \yii\widgets\Widget {
 
-    public function __construct()
-    {
-
-    }
+    private $items = [];
 
     public function init()
     {
+        parent::init();
+    }
 
+    public function run()
+    {
+        return $this->renderFile('View.php',$this->items);
     }
 }

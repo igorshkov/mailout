@@ -1,0 +1,27 @@
+2015-07-12 18:27:37 [127.0.0.1][-][-][error][yii\base\ErrorException:64] exception 'yii\base\ErrorException' with message 'autoload(): Failed opening required 'app/yii\widgets\Widget.php' (include_path='.:/usr/share/php:/usr/share/pear')' in /home/ivan/Desktop/workspace/mailout/index.php:26
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 18:27:37 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56983'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436725657.1081
+    'REQUEST_TIME' => 1436725657
+]
