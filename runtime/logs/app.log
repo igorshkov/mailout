@@ -25,3 +25,1938 @@ Stack trace:
     'REQUEST_TIME_FLOAT' => 1436725657.1081
     'REQUEST_TIME' => 1436725657
 ]
+2015-07-12 18:51:40 [127.0.0.1][-][-][error][yii\base\ErrorException:64] exception 'yii\base\ErrorException' with message 'autoload(): Failed opening required 'app/yii\widgets\Widget.php' (include_path='.:/usr/share/php:/usr/share/pear')' in /home/ivan/Desktop/workspace/mailout/index.php:26
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 18:51:40 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56990'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727100.0131
+    'REQUEST_TIME' => 1436727100
+]
+2015-07-12 18:52:27 [127.0.0.1][-][-][error][yii\base\ErrorException:64] exception 'yii\base\ErrorException' with message 'autoload(): Failed opening required 'app/yii\widgets\Widget.php' (include_path='.:/usr/share/php:/usr/share/pear')' in /home/ivan/Desktop/workspace/mailout/index.php:26
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 18:52:27 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56992'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727147.2313
+    'REQUEST_TIME' => 1436727147
+]
+2015-07-12 18:52:28 [127.0.0.1][-][-][error][yii\base\ErrorException:64] exception 'yii\base\ErrorException' with message 'autoload(): Failed opening required 'app/yii\widgets\Widget.php' (include_path='.:/usr/share/php:/usr/share/pear')' in /home/ivan/Desktop/workspace/mailout/index.php:26
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 18:52:28 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56993'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727148.3962
+    'REQUEST_TIME' => 1436727148
+]
+2015-07-12 18:52:37 [127.0.0.1][-][-][error][yii\base\ErrorException:64] exception 'yii\base\ErrorException' with message 'autoload(): Failed opening required 'app/yii\widgets\Widget.php' (include_path='.:/usr/share/php:/usr/share/pear')' in /home/ivan/Desktop/workspace/mailout/index.php:26
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 18:52:37 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56994'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727157.9747
+    'REQUEST_TIME' => 1436727157
+]
+2015-07-12 18:52:52 [127.0.0.1][-][-][error][yii\base\ErrorException:64] exception 'yii\base\ErrorException' with message 'autoload(): Failed opening required 'app/yii\widgets\Widget.php' (include_path='.:/usr/share/php:/usr/share/pear')' in /home/ivan/Desktop/workspace/mailout/index.php:26
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 18:52:52 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56996'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727172.5483
+    'REQUEST_TIME' => 1436727172
+]
+2015-07-12 18:52:53 [127.0.0.1][-][-][error][yii\base\ErrorException:64] exception 'yii\base\ErrorException' with message 'autoload(): Failed opening required 'app/yii\widgets\Widget.php' (include_path='.:/usr/share/php:/usr/share/pear')' in /home/ivan/Desktop/workspace/mailout/index.php:26
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 18:52:53 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56997'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727173.304
+    'REQUEST_TIME' => 1436727173
+]
+2015-07-12 18:53:08 [127.0.0.1][-][-][error][yii\base\ErrorException:64] exception 'yii\base\ErrorException' with message 'autoload(): Failed opening required 'app/yii\widgets\Widget.php' (include_path='.:/usr/share/php:/usr/share/pear')' in /home/ivan/Desktop/workspace/mailout/index.php:26
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 18:53:07 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56998'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727187.9961
+    'REQUEST_TIME' => 1436727187
+]
+2015-07-12 18:53:08 [127.0.0.1][-][-][error][yii\base\ErrorException:64] exception 'yii\base\ErrorException' with message 'autoload(): Failed opening required 'app/yii\widgets\Widget.php' (include_path='.:/usr/share/php:/usr/share/pear')' in /home/ivan/Desktop/workspace/mailout/index.php:26
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 18:53:08 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56999'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727188.8362
+    'REQUEST_TIME' => 1436727188
+]
+2015-07-12 18:53:09 [127.0.0.1][-][-][error][yii\base\ErrorException:64] exception 'yii\base\ErrorException' with message 'autoload(): Failed opening required 'app/yii\widgets\Widget.php' (include_path='.:/usr/share/php:/usr/share/pear')' in /home/ivan/Desktop/workspace/mailout/index.php:26
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 18:53:09 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57000'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727189.1868
+    'REQUEST_TIME' => 1436727189
+]
+2015-07-12 18:53:09 [127.0.0.1][-][-][error][yii\base\ErrorException:64] exception 'yii\base\ErrorException' with message 'autoload(): Failed opening required 'app/yii\widgets\Widget.php' (include_path='.:/usr/share/php:/usr/share/pear')' in /home/ivan/Desktop/workspace/mailout/index.php:26
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 18:53:09 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57001'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727189.4617
+    'REQUEST_TIME' => 1436727189
+]
+2015-07-12 18:53:19 [127.0.0.1][-][-][error][yii\base\ErrorException:64] exception 'yii\base\ErrorException' with message 'autoload(): Failed opening required 'app/yii\widgets\Widget.php' (include_path='.:/usr/share/php:/usr/share/pear')' in /home/ivan/Desktop/workspace/mailout/index.php:26
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 18:53:19 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57002'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727199.3143
+    'REQUEST_TIME' => 1436727199
+]
+2015-07-12 18:54:38 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(199): yii\base\View->renderFile('View.php', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(17): yii\base\Widget->renderFile('View.php', Array)
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 18:54:38 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57012'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727278.7557
+    'REQUEST_TIME' => 1436727278
+]
+2015-07-12 18:55:02 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(199): yii\base\View->renderFile('View.php', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(17): yii\base\Widget->renderFile('View.php')
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 18:55:02 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57014'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727302.1818
+    'REQUEST_TIME' => 1436727302
+]
+2015-07-12 18:55:02 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(199): yii\base\View->renderFile('View.php', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(17): yii\base\Widget->renderFile('View.php')
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 18:55:02 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57015'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727302.9861
+    'REQUEST_TIME' => 1436727302
+]
+2015-07-12 18:56:04 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(199): yii\base\View->renderFile('View.php', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(17): yii\base\Widget->renderFile('View.php', Array)
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 18:56:04 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57022'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727364.6686
+    'REQUEST_TIME' => 1436727364
+]
+2015-07-12 18:56:33 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(199): yii\base\View->renderFile('View.php', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(17): yii\base\Widget->renderFile('View.php', Array)
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 18:56:33 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57024'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727393.2184
+    'REQUEST_TIME' => 1436727393
+]
+2015-07-12 18:56:38 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(199): yii\base\View->renderFile('View.php', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(17): yii\base\Widget->renderFile('View.php', Array)
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 18:56:38 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57025'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727398.4506
+    'REQUEST_TIME' => 1436727398
+]
+2015-07-12 18:57:50 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: /home/ivan/Desktop/workspace/mailout/app/app/View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(199): yii\base\View->renderFile('/home/ivan/Desk...', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(17): yii\base\Widget->renderFile('/home/ivan/Desk...', Array)
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 18:57:50 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57029'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727470.8638
+    'REQUEST_TIME' => 1436727470
+]
+2015-07-12 19:00:53 [127.0.0.1][-][-][error][yii\base\UnknownMethodException] exception 'yii\base\UnknownMethodException' with message 'Calling unknown method: Mailout::renderPhpFile()' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Component.php:285
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(17): yii\base\Component->__call('renderPhpFile', Array)
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(17): Mailout->renderPhpFile('/home/ivan/Desk...', Array)
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 19:00:53 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57034'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727653.6038
+    'REQUEST_TIME' => 1436727653
+]
+2015-07-12 19:00:55 [127.0.0.1][-][-][error][yii\base\UnknownMethodException] exception 'yii\base\UnknownMethodException' with message 'Calling unknown method: Mailout::renderPhpFile()' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Component.php:285
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(17): yii\base\Component->__call('renderPhpFile', Array)
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(17): Mailout->renderPhpFile('/home/ivan/Desk...', Array)
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 19:00:55 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57035'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727655.0356
+    'REQUEST_TIME' => 1436727655
+]
+2015-07-12 19:01:52 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(199): yii\base\View->renderFile('View.php', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(19): yii\base\Widget->renderFile('View.php', Array)
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 19:01:52 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57037'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727712.4302
+    'REQUEST_TIME' => 1436727712
+]
+2015-07-12 19:01:53 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(199): yii\base\View->renderFile('View.php', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(19): yii\base\Widget->renderFile('View.php', Array)
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 19:01:53 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57038'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727713.5936
+    'REQUEST_TIME' => 1436727713
+]
+2015-07-12 19:02:01 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: /home/ivan/Desktop/workspace/mailout/app/app/View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(199): yii\base\View->renderFile('/home/ivan/Desk...', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(19): yii\base\Widget->renderFile('/home/ivan/Desk...', Array)
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 19:02:01 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57039'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727721.8799
+    'REQUEST_TIME' => 1436727721
+]
+2015-07-12 19:03:12 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(199): yii\base\View->renderFile('View.php', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(19): yii\base\Widget->renderFile('View.php', Array)
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 19:03:12 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57041'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727792.0197
+    'REQUEST_TIME' => 1436727792
+]
+2015-07-12 19:03:12 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(199): yii\base\View->renderFile('View.php', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(19): yii\base\Widget->renderFile('View.php', Array)
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 19:03:12 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57042'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727792.9723
+    'REQUEST_TIME' => 1436727792
+]
+2015-07-12 19:03:29 [127.0.0.1][-][-][error][yii\base\ErrorException:64] exception 'yii\base\ErrorException' with message 'Cannot redeclare class yii\base\View' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:0
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:03:29 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57043'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727809.1088
+    'REQUEST_TIME' => 1436727809
+]
+2015-07-12 19:03:55 [127.0.0.1][-][-][error][yii\base\ErrorException:64] exception 'yii\base\ErrorException' with message 'Cannot redeclare class yii\base\View' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:0
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:03:55 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57045'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727835.8749
+    'REQUEST_TIME' => 1436727835
+]
+2015-07-12 19:03:56 [127.0.0.1][-][-][error][yii\base\ErrorException:64] exception 'yii\base\ErrorException' with message 'Cannot redeclare class yii\base\View' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:0
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:03:56 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57046'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727836.7698
+    'REQUEST_TIME' => 1436727836
+]
+2015-07-12 19:04:23 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: /View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(199): yii\base\View->renderFile('/View.php', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(19): yii\base\Widget->renderFile('/View.php', Array)
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 19:04:23 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57048'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727863.3382
+    'REQUEST_TIME' => 1436727863
+]
+2015-07-12 19:04:24 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: /View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(199): yii\base\View->renderFile('/View.php', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(19): yii\base\Widget->renderFile('/View.php', Array)
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 19:04:24 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57049'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727864.2521
+    'REQUEST_TIME' => 1436727864
+]
+2015-07-12 19:04:36 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(199): yii\base\View->renderFile('View.php', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(17): yii\base\Widget->renderFile('View.php')
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 19:04:36 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57050'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727876.6072
+    'REQUEST_TIME' => 1436727876
+]
+2015-07-12 19:04:45 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(199): yii\base\View->renderFile('View.php', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(17): yii\base\Widget->renderFile('View.php')
+#2 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#3 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#4 {main}
+2015-07-12 19:04:45 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57051'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436727885.2259
+    'REQUEST_TIME' => 1436727885
+]
+2015-07-12 19:07:21 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: /home/ivan/Desktop/workspace/mailout/app/views/View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php(149): yii\base\View->renderFile('/home/ivan/Desk...', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(187): yii\base\View->render('View.php', Array, Object(Mailout))
+#2 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(19): yii\base\Widget->render('View.php', Array)
+#3 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#4 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#5 {main}
+2015-07-12 19:07:21 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57089'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728041.2229
+    'REQUEST_TIME' => 1436728041
+]
+2015-07-12 19:07:22 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: /home/ivan/Desktop/workspace/mailout/app/views/View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php(149): yii\base\View->renderFile('/home/ivan/Desk...', Array, Object(Mailout))
+#1 /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/Widget.php(187): yii\base\View->render('View.php', Array, Object(Mailout))
+#2 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(19): yii\base\Widget->render('View.php', Array)
+#3 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#4 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#5 {main}
+2015-07-12 19:07:22 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57090'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728042.1409
+    'REQUEST_TIME' => 1436728042
+]
+2015-07-12 19:11:23 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:17
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:11:23 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57101'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728283.9903
+    'REQUEST_TIME' => 1436728283
+]
+2015-07-12 19:11:51 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to undefined method Yii::app()' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:17
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:11:51 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57103'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728311.9002
+    'REQUEST_TIME' => 1436728311
+]
+2015-07-12 19:11:52 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to undefined method Yii::app()' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:17
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:11:52 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57104'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728312.8869
+    'REQUEST_TIME' => 1436728312
+]
+2015-07-12 19:12:11 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to undefined method Yii::app()' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:17
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:12:11 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57105'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728331.4169
+    'REQUEST_TIME' => 1436728331
+]
+2015-07-12 19:12:12 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to undefined method Yii::app()' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:17
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:12:12 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57106'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728332.1984
+    'REQUEST_TIME' => 1436728332
+]
+2015-07-12 19:12:32 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to undefined method Yii::app()' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:17
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:12:32 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57108'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728352.5439
+    'REQUEST_TIME' => 1436728352
+]
+2015-07-12 19:12:33 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to undefined method Yii::app()' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:17
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:12:33 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57109'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728353.4012
+    'REQUEST_TIME' => 1436728353
+]
+2015-07-12 19:12:46 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to undefined method Yii::app()' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:18
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:12:46 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57110'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728366.0393
+    'REQUEST_TIME' => 1436728366
+]
+2015-07-12 19:12:46 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to undefined method Yii::app()' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:18
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:12:46 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57111'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728366.725
+    'REQUEST_TIME' => 1436728366
+]
+2015-07-12 19:13:01 [127.0.0.1][-][-][error][yii\base\ErrorException:2] exception 'yii\base\ErrorException' with message 'The use statement with non-compound name 'Yii' has no effect' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:3
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/index.php(26): yii\base\ErrorHandler->handleError(2, 'The use stateme...', '/home/ivan/Desk...', 3, Array)
+#1 /home/ivan/Desktop/workspace/mailout/index.php(26): autoload()
+#2 [internal function]: autoload('Mailout')
+#3 /home/ivan/Desktop/workspace/mailout/app/App.php(36): spl_autoload_call('Mailout')
+#4 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#5 {main}
+2015-07-12 19:13:01 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57112'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728381.8536
+    'REQUEST_TIME' => 1436728381
+]
+2015-07-12 19:13:12 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to undefined method Yii::app()' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:13:12 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57120'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728392.6334
+    'REQUEST_TIME' => 1436728392
+]
+2015-07-12 19:14:19 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:14:19 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57126'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728459.0592
+    'REQUEST_TIME' => 1436728459
+]
+2015-07-12 19:15:03 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:15:03 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57128'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728503.567
+    'REQUEST_TIME' => 1436728503
+]
+2015-07-12 19:15:04 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:15:04 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57129'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728504.3644
+    'REQUEST_TIME' => 1436728504
+]
+2015-07-12 19:15:04 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:15:04 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57130'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728504.7009
+    'REQUEST_TIME' => 1436728504
+]
+2015-07-12 19:15:05 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:15:05 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57131'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728505.0473
+    'REQUEST_TIME' => 1436728505
+]
+2015-07-12 19:15:27 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:15:27 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57133'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728527.2356
+    'REQUEST_TIME' => 1436728527
+]
+2015-07-12 19:17:37 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:17:37 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57136'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728657.0143
+    'REQUEST_TIME' => 1436728657
+]
+2015-07-12 19:17:38 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:17:38 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57137'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728658.2504
+    'REQUEST_TIME' => 1436728658
+]
+2015-07-12 19:19:08 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:19:08 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57139'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728748.5068
+    'REQUEST_TIME' => 1436728748
+]
+2015-07-12 19:19:28 [127.0.0.1][-][-][error][yii\base\ErrorException:2] exception 'yii\base\ErrorException' with message 'The use statement with non-compound name 'Yii' has no effect' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:3
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/index.php(26): yii\base\ErrorHandler->handleError(2, 'The use stateme...', '/home/ivan/Desk...', 3, Array)
+#1 /home/ivan/Desktop/workspace/mailout/index.php(26): autoload()
+#2 [internal function]: autoload('Mailout')
+#3 /home/ivan/Desktop/workspace/mailout/app/App.php(36): spl_autoload_call('Mailout')
+#4 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#5 {main}
+2015-07-12 19:19:28 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57141'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728768.9788
+    'REQUEST_TIME' => 1436728768
+]
+2015-07-12 19:19:49 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:19:49 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57151'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728789.1926
+    'REQUEST_TIME' => 1436728789
+]
+2015-07-12 19:21:35 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:21:35 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57155'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728895.7771
+    'REQUEST_TIME' => 1436728895
+]
+2015-07-12 19:21:52 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:21:52 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57157'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728912.1566
+    'REQUEST_TIME' => 1436728912
+]
+2015-07-12 19:21:52 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:21:52 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57158'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728912.9918
+    'REQUEST_TIME' => 1436728912
+]
+2015-07-12 19:21:53 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:21:53 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57159'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728913.5594
+    'REQUEST_TIME' => 1436728913
+]
+2015-07-12 19:22:31 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:22:31 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57161'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728951.2577
+    'REQUEST_TIME' => 1436728951
+]
+2015-07-12 19:22:31 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:22:31 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57162'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728951.9726
+    'REQUEST_TIME' => 1436728951
+]
+2015-07-12 19:22:32 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:22:32 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57163'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728952.2668
+    'REQUEST_TIME' => 1436728952
+]
+2015-07-12 19:22:32 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:22:32 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57164'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728952.4996
+    'REQUEST_TIME' => 1436728952
+]
+2015-07-12 19:22:32 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:22:32 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57165'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728952.8062
+    'REQUEST_TIME' => 1436728952
+]
+2015-07-12 19:22:33 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:22:33 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57166'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436728953.0953
+    'REQUEST_TIME' => 1436728953
+]
+2015-07-12 19:23:32 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:23:32 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57168'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436729012.0343
+    'REQUEST_TIME' => 1436729012
+]
+2015-07-12 19:23:32 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to a member function renderFile() on a non-object' in /home/ivan/Desktop/workspace/mailout/app/Mailout.php:19
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-07-12 19:23:32 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57169'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436729012.7493
+    'REQUEST_TIME' => 1436729012
+]
+2015-07-12 19:25:06 [127.0.0.1][-][-][error][yii\base\InvalidParamException] exception 'yii\base\InvalidParamException' with message 'The view file does not exist: View.php' in /home/ivan/Desktop/workspace/mailout/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home/ivan/Desktop/workspace/mailout/app/Mailout.php(21): yii\base\View->renderFile('View.php', Array)
+#1 /home/ivan/Desktop/workspace/mailout/app/App.php(37): Mailout->run()
+#2 /home/ivan/Desktop/workspace/mailout/index.php(42): App->run()
+#3 {main}
+2015-07-12 19:25:06 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'DOCUMENT_ROOT' => '/home/ivan/Desktop/workspace/mailout'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57173'
+    'SERVER_SOFTWARE' => 'PHP 5.5.9-1ubuntu4.9 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/ivan/Desktop/workspace/mailout/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,ru;q=0.6'
+    'REQUEST_TIME_FLOAT' => 1436729106.1967
+    'REQUEST_TIME' => 1436729106
+]

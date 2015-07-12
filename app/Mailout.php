@@ -1,9 +1,10 @@
 <?php
 
+use Yii;
 use yii\base\Widget;
 use yii\helpers\Html;
 
-class Mailout extends \yii\widgets\Widget {
+class Mailout extends Widget {
 
     private $items = [];
 
@@ -14,6 +15,9 @@ class Mailout extends \yii\widgets\Widget {
 
     public function run()
     {
-        return $this->renderFile('View.php',$this->items);
+        echo Yii::$app->basePath . '/app/View.php';
+        return Yii::$app->view->renderFile(Yii::$app->basePath . '/app/View.php', [
+            'items' => $this->items,
+        ]);
     }
 }

@@ -34,6 +34,7 @@ class App extends Service
         }
         $this->dev();
         $mailout = new Mailout();
+        echo $mailout->run();
     }
 
     private function dev()
