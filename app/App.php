@@ -32,7 +32,15 @@ class App extends Service
                 }
             }
         }
+        $this->dev();
         $mailout = new Mailout();
+    }
+
+    private function dev()
+    {
+        require(__DIR__ . '/../vendor/yiisoft/yii2/Yii.php');
+        $yii2Config = require(__DIR__ . '/../dev/web.php');
+        new yii\web\Application($yii2Config); // Do NOT call run()
     }
 }
 
