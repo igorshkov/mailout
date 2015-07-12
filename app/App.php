@@ -31,8 +31,8 @@ class App extends Service
                     print_r('</br>');
                 }
             }
-
         }
+        $mailout = new Mailout();
     }
 }
 
